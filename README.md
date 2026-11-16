@@ -28,10 +28,7 @@ Buka file `.env` lalu **ganti `ADMIN_PASSWORD`** (minimal 8 karakter). Isi file 
 |------------------|-----------------------------------------------------------------|-------------------------|
 | `DB_PATH`        | Lokasi file database SQLite (relatif ke folder proyek)          | `malibu.db`             |
 | `ADMIN_EMAIL`    | Email untuk login admin                                         | `admin@malibu.local`    |
-<<<<<<< HEAD
-| `ADMIN_PASSWORD` | Password admin                                                  | (isi sendiri)           |
-=======
-| `ADMIN_PASSWORD` | Password admin                                                  | adminmalibu123          |
+| `ADMIN_PASSWORD` | Password admin                                                  | `adminmalibu123`        |
 >>>>>>> 8a7318da1f2769857e677cf2e6095d8dbfd51ba4
 
 > Tidak perlu membuat database secara manual. File `malibu.db`, semua tabel, dan 4 paket default
